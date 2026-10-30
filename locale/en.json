@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Guided Image Generation",
+    "description": "Adds an image-generation button above the chat composer with prompt guidance and preview."
+  }
+}

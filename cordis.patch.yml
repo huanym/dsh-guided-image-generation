@@ -1,0 +1,3 @@
+- insert:
+    - id: guided-image-generation
+      name: '@local/dsh-guided-image-generation'

@@ -1,0 +1,26 @@
+# 依赖与构建产物
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+
+# 本地个人配置（供应商地址、Key 等），永不提交
+provider.local.json
+.env
+.env.*
+
+# 生成结果
+output/
+*.png
+*.jpg
+*.jpeg
+*.webp
+!icon.svg
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+__pycache__/
+*.pyc
